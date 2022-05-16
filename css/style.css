@@ -1,0 +1,91 @@
+body{
+	margin:auto;
+	width:100%;
+}
+h1{
+background-color:black;
+height:150px;
+}
+h2{
+height:30px;
+}
+.dark{
+	background-color:black;
+	height:30px;
+}
+.fish{
+	background-color:red;
+	height:30px;
+}
+h5{
+	color:white;
+}
+.home{
+	background-color:pink;
+height:200px;
+}
+.all{
+	padding:30px;
+}
+.lol{
+	height:300px auto;
+	font-size:40px;
+}
+.give{
+height:50px;
+}
+h3{
+	color:white;
+}
+.home{
+	color:white;
+}
+.love{
+	background-color:blue;
+	height:200px;
+}
+.h{
+	color:blue;
+}
+.t{
+	color:red;
+}
+.o{
+	color:yellow;
+}
+.u{
+	color:blue;
+}
+.l{
+	color:green;
+}
+.e{
+	color:red;
+}
+h6{
+	color:black;
+}
+.hii{
+	font-size:20px;
+}
+.covid-text{
+	font-size:10px;
+}
+h5{
+	font-size:12px;
+}
+h6{
+	font-size:10px;
+}
+.background{
+	background:color="image/olami.JPG";
+	height:400px
+}	
+.background{
+	background:color="image/mylove.JPG"
+	height:400px 
+}
+h1{
+	color:white
+	height:20px
+}
